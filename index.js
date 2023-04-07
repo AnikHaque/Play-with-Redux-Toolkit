@@ -17,4 +17,3 @@ const run = async () => {
 }
 
 run();
-// store.dispatch(FetchbyTagsPosts(store.getState()))

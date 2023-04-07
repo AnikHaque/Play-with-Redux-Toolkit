@@ -24,7 +24,7 @@ const FetchbyTagsPosts = createAsyncThunk("fetchvideo/fetchbyTags", async (tags)
     console.log(tags)
     let str = ``
     for (const tag in tags) {
-        // console.log(tag)
+      
         if (str === '') {
             str+=`tags_like=${tags[tag]}`
         }else{

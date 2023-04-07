@@ -1,0 +1,14 @@
+{
+  "name": "Assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Node js project assignment with redux-toolkit",
+  "repository": "https://github.com/Learn-with-Sumit/batch-2---assignment-5---play-with-redux-toolkit-AnikHaque",
+  "author": "AnikHaque",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "node-fetch": "2",
+    "redux-logger": "^3.0.6"
+  }
+}

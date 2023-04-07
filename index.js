@@ -6,7 +6,7 @@ const { initialFetchVideo, FetchbyTagsPosts} = require("./feature/fetchVideo/fet
 
 // subscribe to state changes
 store.subscribe(() => {
-    // console.log(store.getState());
+   
 });
 
 // disptach actions

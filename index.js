@@ -1,7 +1,7 @@
 const store = require("./app/store");
 const { initialFetchVideo, FetchbyTagsPosts} = require("./feature/fetchVideo/fetchVideoSlice");
 
-// initial state
+
 
 
 // subscribe to state changes
